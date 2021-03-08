@@ -30,7 +30,7 @@
 * creation of software products;
 * optimization and finalization of the finished product;
 * interaction with the customer;
-* maintenance of software products.	
+* maintenance of software products.
  
 **Project #1: Routing Table	Apr 2020 - Oct 2020**
 * Stack:	NET Framework, z/OS, TFS, Azure DevOps
