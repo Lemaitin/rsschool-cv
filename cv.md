@@ -35,7 +35,7 @@
 **Project #1: Routing Table	Apr 2020 - Oct 2020**
 * Stack:	NET Framework, z/OS, TFS, Azure DevOps
 * Role:	Software engineer
-* Description:	Routing Table Configuration Utility. The project is a software package for the exchange of banking information with an appeal to the mainframe for interaction between the client (Bank) and the service provider (Central Bank).
+* Description:	Routing Table Configuration Utility. The project is a software package for the exchange of banking information with an appeal to the mainframe for interaction between the client (Bank) and the service  provider (Central Bank).
 The program is intended for viewing and configuring the routing tables of the secure interaction subsystem at the Central Computing Complex. The routing table contains routes by which information security information is read/written.
 
 **Project #2: Record monitoring protocol	Nov 2020 - now**
