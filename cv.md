@@ -1,6 +1,6 @@
 ## Maleitin Ilya Alexandrovich
 **Contacts**
-* email ilia.maleitin@gmail.com
+* Email ilia.maleitin@gmail.com
 * Software Engineer	+375 (29) 723-37-60
 
 **Personal profile:**
